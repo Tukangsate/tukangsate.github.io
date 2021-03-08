@@ -6100,7 +6100,245 @@ https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 
 
 
-
+#EXTM3U
+#EXTINF:-1 group-title="Lokal" tvg-logo="", NET TV
+https://tv.cpdev.us/Playlist/o/nettv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", TVRI Nasional
+https://tv.cpdev.us/Playlist/o/tvri.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", SCTV
+https://tv.cpdev.us/Playlist/o/sctv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Trans 7
+https://tv.cpdev.us/Playlist/o/trans7.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Trans TV
+https://tv.cpdev.us/Playlist/o/transtv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Indosiar
+https://tv.cpdev.us/Playlist/o/indosiar.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", ANTV
+https://tv.cpdev.us/Playlist/o/antv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", TV One
+https://tv.cpdev.us/Playlist/o/tvone.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", My TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/variant.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", MMC
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/variant.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Daai TV
+https://tv.cpdev.us/Playlist/o/daaitv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/variant.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Matrix TV
+https://tv.cpdev.us/Playlist/o/matrixtv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Lejel Home Shoping
+https://tv.cpdev.us/Playlist/o/lejelhs.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Nusantara TV
+https://tv.cpdev.us/Playlist/o/nusantaratv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Jawa Pos TV
+rtmp://122.248.43.138/ch6/myStream
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Magna TV
+https://tv.cpdev.us/Playlist/o/magnatv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", BN TV
+https://tv.cpdev.us/Playlist/o/bn-tv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", RRI Net
+https://tv.cpdev.us/Playlist/o/rri-net.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Persija TV
+https://tv.cpdev.us/Playlist/o/persijatv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", RTV
+https://tv.cpdev.us/Playlist/o/rtv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Jak TV
+https://tv.cpdev.us/Playlist/o/jaktv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Lokal" tvg-logo="", O Channel
+https://tv.cpdev.us/Playlist/o/ochannel.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Digione Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Hi indo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Digdaya TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Inspira TV
+https://v2.siar.us/inspiratv/live/chunks.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="", BBS TV
+https://dcunilive94-lh.akamaihd.net/i/dclive_1@839502/master.m3u8?hdnea=st=1615215040~exp=1615215440~acl=/i/dclive_1@839502*~hmac=723606ae793044df942ab73f260af41cd95a4b13f4a6ca8a3237cfd6631e3b3b 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Megaswara TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Cahaya TV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8 
+#EXTINF:-1 group-title="Lokal" tvg-logo="", Badar TV
+https://e1.siar.us/badartv/live/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="", CGTN Documentary
+https://tv.cpdev.us/Playlist/o/cgtndocumentary.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Sinema Indonesia
+https://tv.cpdev.us/Playlist/o/sinemaindonesia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Sinema Indonesia X
+https://tv.cpdev.us/Playlist/o/sinemaindonesia-x.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", B4U Movies
+https://tv.cpdev.us/Playlist/o/b4umovieindia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Xing Kong China
+https://tv.cpdev.us/Playlist/o/xingkong.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Lotus Macau
+https://tv.cpdev.us/Playlist/o/lotusmacau.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", ATV
+https://tv.cpdev.us/Playlist/o/atv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", MCINE
+https://tv.cpdev.us/Playlist/o/mcine.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", HBO
+https://tv.cpdev.us/Playlist/r/20008.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", HBO Signature
+https://tv.cpdev.us/Playlist/r/20009.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", HBO Hits
+https://tv.cpdev.us/Playlist/r/20010.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", HBO Family
+https://tv.cpdev.us/Playlist/r/20011.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Cinemax by HBO
+https://tv.cpdev.us/Playlist/r/20012.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Movies" tvg-logo="", Red by HBO
+https://tv.cpdev.us/Playlist/r/20013.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Movies" tvg-logo="", Fox Action Movies
+http://103.65.237.91:25461/ext/ext/118 
+#EXTINF:-1 group-title="Movies" tvg-logo="", Fox Movies
+http://103.65.237.91:25461/ext/ext/121 
+#EXTINF:-1 group-title="Movies" tvg-logo="", Fox Crime
+http://103.65.237.91:25461/ext/ext/116
+#EXTINF:-1 group-title="Sports" tvg-logo="", TVRI Sport
+https://tv.cpdev.us/Playlist/o/tvrisport.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Sports" tvg-logo="", Sport One
+https://tv.cpdev.us/Playlist/o/sportone.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Sports" tvg-logo="", Bein Sport MAX
+http://103.65.237.91:25461/ext/ext/145
+#EXTINF:-1 group-title="Sports" tvg-logo="", Dubai Sports 3
+https://tv.cpdev.us/Playlist/o/dubaisport3.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Sports" tvg-logo="", Red Bull TV
+https://tv.cpdev.us/Playlist/o/redbulltv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Sports" tvg-logo="", Dunia Games
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="", Mola Sports Free
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/variant.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="", True Premier HD 1 
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="", True Premier HD 2 
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="", True Premier HD 3 
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="", True Premier HD 4 
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8 
+#EXTINF:-1 group-title="Sports" tvg-logo="", True Premier HD 5 
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="", TV Edukasi
+https://tv.cpdev.us/Playlist/o/tvedukasi.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", Toonmax
+https://tv.cpdev.us/Playlist/o/toonmax.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", Spacetoon
+https://tv.cpdev.us/Playlist/o/spacetoon.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", EBS Kids
+https://tv.cpdev.us/Playlist/o/ebskids.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Kids" tvg-logo="", Mentari TV
+https://tv.cpdev.us/Playlist/o/mentaritv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Religi" tvg-logo="", Salam TV
+https://tv.cpdev.us/Playlist/o/salamtv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Religi" tvg-logo="", Rodja TV
+https://tv.cpdev.us/Playlist/o/rodjatv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Religi" tvg-logo="", U CHANNEL
+https://tv.cpdev.us/Playlist/o/uchannel.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Religi" tvg-logo="", Tawaf TV
+https://tv.cpdev.us/Playlist/o/tawaftv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Religi" tvg-logo="", Qur'an TV
+https://tv.cpdev.us/Playlist/o/qurantv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Religi" tvg-logo="", Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", Drakor
+https://tv.cpdev.us/Playlist/o/drakorplus.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", Fashion TV
+https://tv.cpdev.us/Playlist/o/fashiontv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", Go To Luxe
+https://tv.cpdev.us/Playlist/o/gotoluxe.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", K Drama
+https://tv.cpdev.us/Playlist/o/k-drama.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", KBS World
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:-1 group-title="Musik" tvg-logo="", B4U Music
+https://tv.cpdev.us/Playlist/o/b4umusicindia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Musik" tvg-logo="", Channel V China
+https://tv.cpdev.us/Playlist/o/vchina.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Musik" tvg-logo="", MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:-1 group-title="Internasional" tvg-logo="", NHK World
+https://tv.cpdev.us/Playlist/o/nhkworld.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Phoenix HK
+https://tv.cpdev.us/Playlist/o/phoenixhongkong.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", DW TV Asia
+https://tv.cpdev.us/Playlist/o/dwenglish.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", France 24
+https://tv.cpdev.us/Playlist/o/france24.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Arirang World
+https://tv.cpdev.us/Playlist/o/arirangworld.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", CCTV 4
+https://tv.cpdev.us/Playlist/o/cctv4asia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", VOA
+https://tv.cpdev.us/Playlist/o/voa.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Rai Italia
+https://tv.cpdev.us/Playlist/o/raiitalia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Cetv 1
+https://tv.cpdev.us/Playlist/o/cetv1.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", TVE Asia
+https://tv.cpdev.us/Playlist/o/tveasia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", TV5 Monde
+https://tv.cpdev.us/Playlist/o/TV5 Monde.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Nippon TV
+https://tv.cpdev.us/Playlist/o/nihontv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Al Jazeera
+https://tv.cpdev.us/Playlist/o/aljazeera.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Phoenix Chinese
+https://tv.cpdev.us/Playlist/o/phoenixchinese.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Channel News Asia
+https://tv.cpdev.us/Playlist/o/channelnewsasia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Internasional" tvg-logo="", CGTN
+https://tv.cpdev.us/Playlist/o/cgtn.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Internasional" tvg-logo="", Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="", Russia Today
+https://tv.cpdev.us/Playlist/o/russiatoday.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Phoenix Info News
+https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", TVB News
+https://tv.cpdev.us/Playlist/o/tvbnews.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Metro TV
+https://tv.cpdev.us/Playlist/o/metrotv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Kompas TV
+https://tv.cpdev.us/Playlist/o/kompastv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", TV One
+https://tv.cpdev.us/Playlist/o/tvone.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Elshinta
+https://tv.cpdev.us/Playlist/o/elshinta.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Berita Satu
+https://tv.cpdev.us/Playlist/o/beritasatu.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Inews TV
+https://tv.cpdev.us/Playlist/o/inews.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", CNBC Indonesia
+https://tv.cpdev.us/Playlist/o/cnbcindonesia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", CNBC
+https://tv.cpdev.us/Playlist/o/cnbc.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Euro News
+https://tv.cpdev.us/Playlist/o/euronewsasia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Bloomberg
+https://tv.cpdev.us/Playlist/o/bloomberg.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", DW English
+https://tv.cpdev.us/Playlist/o/dwenglish.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Phoenix Info News
+https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", TVB News
+https://tv.cpdev.us/Playlist/o/tvbnews.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", Phoenix Info News
+https://tv.cpdev.us/Playlist/o/phoenixnews.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
+#EXTINF:-1 group-title="Berita" tvg-logo="", CNN Indonesia
+https://tv.cpdev.us/Playlist/o/cnnindonesia.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f 
+#EXTINF:-1 group-title="Berita" tvg-logo="", Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8 
+#EXTINF:-1 group-title="Berita" tvg-logo="", Sea Today
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8 
+#EXTINF:-1 group-title="Berita" tvg-logo="", Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 
 
